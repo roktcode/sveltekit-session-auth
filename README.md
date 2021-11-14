@@ -1,4 +1,4 @@
-A Svelte appto demonstrate how to do session authentication, adapted from this video https://youtu.be/bG7cxwBMVag by Brayden Girard
+A Svelte app to demonstrate how to do session authentication, adapted from this video https://youtu.be/bG7cxwBMVag by Brayden Girard
 
 
 Make sure to have Redis installed to use the code.
