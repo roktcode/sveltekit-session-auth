@@ -8,7 +8,7 @@
 	}
 </script>
 
-<h1>SvelteKit sesion authentication</h1>
+<h1>SvelteKit session authentication</h1>
 
 <Login on:success={redirectToProfile} />
 <Register on:success={redirectToProfile} />
